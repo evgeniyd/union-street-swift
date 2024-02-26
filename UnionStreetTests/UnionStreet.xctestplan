@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "4A03A2CC-5A18-4ABE-A85D-BC0FEEA36C45",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:UnionStreet.xcodeproj",
+        "identifier" : "584330582B8D21900072AFEC",
+        "name" : "UnionStreetTests"
+      }
+    }
+  ],
+  "version" : 1
+}
