@@ -1,4 +1,4 @@
-[![CI-macOS](https://github.com/evgeniyd/union-street-swift/actions/workflows/CI.yml/badge.svg)](https://github.com/evgeniyd/union-street-swift/actions/workflows/CI.yml)
+[![CI-macOS](https://github.com/evgeniyd/union-street-swift/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/evgeniyd/union-street-swift/actions/workflows/CI.yml)
 
 # Union Street
 **Union Street** is Drop-in **Union Find** data struct for Leetcode problems written in Swift
