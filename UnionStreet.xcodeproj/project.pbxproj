@@ -31,6 +31,7 @@
 		584330592B8D21900072AFEC /* UnionStreetTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnionStreetTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5843305E2B8D21900072AFEC /* UnionStreetTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnionStreetTests.swift; sourceTree = "<group>"; };
 		5843306B2B8D22040072AFEC /* UnionFind.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnionFind.swift; sourceTree = "<group>"; };
+		5843306D2B8D23CD0072AFEC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +56,7 @@
 		584330452B8D218F0072AFEC = {
 			isa = PBXGroup;
 			children = (
+				5843306D2B8D23CD0072AFEC /* README.md */,
 				584330512B8D218F0072AFEC /* UnionStreet */,
 				5843305D2B8D21900072AFEC /* UnionStreetTests */,
 				584330502B8D218F0072AFEC /* Products */,
