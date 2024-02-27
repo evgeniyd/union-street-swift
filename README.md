@@ -22,4 +22,4 @@ Grad it here: [UnionFind.swift](UnionStreet/UnionFind.swift)
 
 Problems that *can* be solved with `Union Find` data structure.
 
-* [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/)
+* [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | [Solution](https://leetcode.com/problems/greatest-common-divisor-traversal/solutions/4791937/unionfind-computing-prime-factors/)
