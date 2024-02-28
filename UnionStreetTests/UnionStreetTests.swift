@@ -16,7 +16,7 @@ final class UnionStreetTests: XCTestCase {
     }
 
     func test_find_singleNodeReturnsNodeItselfOnInit() {
-        let sut = makeSUT(1)
+        var sut = makeSUT(1)
         XCTAssertEqual(0, sut.find(0))
     }
 
@@ -26,7 +26,7 @@ final class UnionStreetTests: XCTestCase {
     }
 
     func test_find_returnsNodesItselfOnTwoNodesInit() {
-        let sut = makeSUT(2)
+        var sut = makeSUT(2)
         XCTAssertEqual(0, sut.find(0))
         XCTAssertEqual(1, sut.find(1))
     }

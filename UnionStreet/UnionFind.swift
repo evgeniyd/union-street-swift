@@ -16,12 +16,11 @@ struct UnionFind {
         rank = Array(repeating:1, count: count)
     }
 
-    func find(_ n: Int) -> Int {
-        var n = par[n]
-        while n != par[n] {
-            n = par[n]
+    mutating func find(_ n: Int) -> Int {
+        if par[n] != n {
+            par[n] = find(par[n])
         }
-        return n
+        return par[n]
     }
 
     @discardableResult
